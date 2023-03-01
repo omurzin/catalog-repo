@@ -1,0 +1,4 @@
+polar:
+  greeting: "Welcome to the catalog from the config server DEFAULT"
+  catalog:
+    service.uri: "test"
